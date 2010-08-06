@@ -1,5 +1,3 @@
-require 'action_view'
-require 'active_support'
 require 'mustache'
 
 class Mustache
